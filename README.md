@@ -1,7 +1,6 @@
 ### 👋 Hi there 
 
-I am a Software Engineer and Mobile App Developer. I am a fan of technology📱, programming👨‍💻 and football⚽️.  
-I'm based in Japan 🇯🇵 for now but looking forward to collaborating with you wherever you are 🌍!
+I am a Software Engineer and Mobile App Developer. I am a fan of technology📱, programming👨‍💻 and football⚽️. I'm based in Japan 🇯🇵 for now but looking forward to collaborating with you wherever you are 🌍!
 
 ### 📓 Summary 
 
