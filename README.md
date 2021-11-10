@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-I am a Software Engineer and Mobile App Developer. I am a fan of technology📱, programming👨‍💻 and football⚽️. I'm based in Japan 🇯🇵 for now but looking forward to collaborating with you wherever you are 🌍!
+I am a Software Engineer and Mobile App Developer. I'm based in Japan for now but looking forward to collaborating with you wherever you are!
 
 ### 📓 Summary 
 
@@ -8,8 +8,8 @@ Have been working on Software Engineering for years. Especially iOS and Android 
 
 ### 🦾 Skills And Certifications
 
-- **Programming Language:** Python / Swift / Objective-C / Kotlit / React / JavaScript / TypeScript / PHP / Ruby
-- **Framework:** ReactNative / Flutter / Laravel / FuelPHP / Ethna / Ruby on Rails
+- **Programming Language:** Swift / Objective-C / Kotlin / Python / React / JavaScript / TypeScript / PHP / Ruby
+- **Framework:** ReactNative / Flutter / Laravel / FuelPHP / Ruby on Rails
 - **Testing** Pytest, XCTest, XCUITest
 - **Tool:** Appium / BrowserStack / CircleCI / Travis CI / Jenkins / Fastlane / CocoaPods / Carthage / mitmproxy / postman
 - **Others:** Japanese (native); English (business, TOEIC 880 Mar,2019)
