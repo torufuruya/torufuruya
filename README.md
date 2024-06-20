@@ -1,23 +1,45 @@
-### 👋 Hi there 
+# Hi 👋 I'm Toru
 
-I am a Software Engineer and Mobile App Developer. I'm based in Japan for now but looking forward to collaborating with you wherever you are!
+## About Me 
 
-### 📓 Summary 
+A seasoned software engineer with extensive expertise in mobile app development, specializing in Swift, Kotlin, Flutter, and React Native. Excels in product-oriented thinking, technical consulting, and feature development. Has a strong background in leading engineering teams, optimizing development processes, and enhancing application performance. My proficiency spans various tools and technologies, including Firebase, Google Analytics, and automated testing, showcasing his broad technical proficiency and innovation. 
 
-Have been working on Software Engineering for years. Especially iOS and Android app development during the past few years. Can work with not only native approach like Swift, Kotlin but also cutting edge technologies like ReactNative and Flutter. Have plenty of experience in automating development flow using some of popular CI services.  
+## GitHub
 
-### 🦾 Skills And Certifications
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=torufuruya&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&theme=transparent&show=prs_merged_percentage" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=torufuruya&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+</a>
 
-- **Programming Language:** Swift / Objective-C / Kotlin / Python / React / JavaScript / TypeScript / PHP / Ruby
-- **Framework:** ReactNative / Flutter / Laravel / FuelPHP / Ruby on Rails
-- **Testing** Pytest, XCTest, XCUITest
-- **Tool:** Appium / BrowserStack / CircleCI / Travis CI / Jenkins / Fastlane / CocoaPods / Carthage / mitmproxy / postman
-- **Others:** Japanese (native); English (business, TOEIC 880 Mar,2019)
+## Skills
 
-### 🧩 More Pieces
+- Swift, SwiftUI, UIKit, Objective-C, Async/await, Combine
+- Kotlin, Android Jetpack, Flow, Hilt
+- Flutter, React Native
+- Product-oriented Thinking
+- Firebase, Google Analytics, Mixpanel Circle CI, Fastlane, etc
+- **Language:** Japanese (native); English (business)
 
-- _Blog (Japanese)_ _[http://tofucodes.hatenablog.jp/archive](http://tofucodes.hatenablog.jp/archive)_
-- _Medium_ _[https://medium.com/@toru_furuya](https://medium.com/@toru_furuya)_
-- _Stack Overflow_ _[https://stackoverflow.com/users/story/4834226](https://stackoverflow.com/users/story/4834226)_
-- _Speaker Deck_ _[https://speakerdeck.com/torufuruya](https://speakerdeck.com/torufuruya)_
-- _Freelance Profile_ _[https://www.lancers.jp/profile/tofucodes](https://www.lancers.jp/profile/tofucodes)_
+## Side Projects
+
+### [Matchday (Android app)](https://play.google.com/store/apps/details?id=com.torufuruya.matchday)
+
+- Flutter
+- AWS (Cognito, API Gateway, Lambda, DynamoDB)
+
+### [Routinify (Android app)](https://play.google.com/store/apps/details?id=com.torufuruya.routinify)
+
+- React Native
+- Firebase (Firestore, Cloud Functions, Cloud Messaging)
+
+## More on me...
+
+- [_Stack Overflow_](https://stackoverflow.com/users/4834226/toru?tab=profile)
+- [_Medium_](https://medium.com/@toru_furuya)
+- [_note_](https://note.com/yatt0825)
+- [_Blog (Japanese)_](http://tofucodes.hatenablog.jp/archive)
+- [_Qiita_](https://qiita.com/torufuruya@github)
+- [_Speaker Deck_](https://speakerdeck.com/torufuruya)
+- [_Lancers_](https://www.lancers.jp/profile/tofucodes)
