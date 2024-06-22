@@ -36,6 +36,7 @@ A seasoned software engineer with extensive expertise in mobile app development,
 
 ## More on me...
 
+- [_LinkedIn_](https://linkedin.com/in/toru-furuya)
 - [_Stack Overflow_](https://stackoverflow.com/users/4834226/toru?tab=profile)
 - [_Medium_](https://medium.com/@toru_furuya)
 - [_note_](https://note.com/yatt0825)
