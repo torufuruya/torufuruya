@@ -2,7 +2,7 @@
 
 ## About Me 
 
-A seasoned software engineer with extensive expertise in mobile app development, specializing in Swift, Kotlin, Flutter, and React Native. Excels in product-oriented thinking, technical consulting, and feature development. Has a strong background in leading engineering teams, optimizing development processes, and enhancing application performance. My proficiency spans various tools and technologies, including Firebase, Google Analytics, and automated testing, showcasing his broad technical proficiency and innovation. 
+A seasoned software engineer with extensive expertise in mobile app development, specializing in Swift, Kotlin, and Flutter. Excels in product-oriented thinking, technical consulting, and feature development. Has a strong background in leading engineering teams, optimizing development processes, and enhancing application performance. My proficiency spans various tools and technologies, including Firebase, Google Analytics, and automated testing, showcasing his broad technical proficiency and innovation. 
 
 ## GitHub
 
