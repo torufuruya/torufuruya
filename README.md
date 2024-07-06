@@ -24,12 +24,16 @@ A seasoned software engineer with extensive expertise in mobile app development,
 
 ## Side Projects
 
-### [Matchday (Android app)](https://play.google.com/store/apps/details?id=com.torufuruya.matchday)
+### Matchday
+
+[App Store](https://apps.apple.com/us/app/matchday-football-calendar/id6504959198) | [Google Play](https://play.google.com/store/apps/details?id=com.torufuruya.matchda)
 
 - Flutter
 - AWS (Cognito, API Gateway, Lambda, DynamoDB)
 
-### [Routinify (Android app)](https://play.google.com/store/apps/details?id=com.torufuruya.routinify)
+### Routinify
+
+[Google Play](https://play.google.com/store/apps/details?id=com.torufuruya.routinify)
 
 - React Native
 - Firebase (Firestore, Cloud Functions, Cloud Messaging)
