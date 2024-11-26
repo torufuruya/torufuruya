@@ -26,7 +26,7 @@ A seasoned software engineer with extensive expertise in mobile app development,
 
 ### Matchday
 
-[App Store](https://apps.apple.com/us/app/matchday-football-calendar/id6504959198) | [Google Play](https://play.google.com/store/apps/details?id=com.torufuruya.matchda)
+[App Store](https://apps.apple.com/us/app/matchday-football-calendar/id6504959198) | [Google Play](https://play.google.com/store/apps/details?id=com.torufuruya.matchday)
 
 - Flutter
 - AWS (Cognito, API Gateway, Lambda, DynamoDB)
